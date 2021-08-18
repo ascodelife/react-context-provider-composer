@@ -1,0 +1,27 @@
+{
+  "name": "@ascodelife/react-context-provider-composer",
+  "version": "1.0.0",
+  "description": "Compose your react context provider to solve callbcak hell",
+  "main": "src/index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ascodelife",
+  "license": "ISC",
+  "keywords": [
+    "npm",
+    "react",
+    "typescript",
+    "context"
+  ],
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "^4.0.3"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.18",
+    "@types/react-dom": "^17.0.9",
+    "typescript": "^4.3.5"
+  }
+}
