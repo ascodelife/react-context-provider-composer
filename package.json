@@ -1,6 +1,6 @@
 {
   "name": "@ascodelife/react-context-provider-composer",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "description": "Compose your react context provider to solve nested hell",
   "main": "dist/index.js",
   "scripts": {
