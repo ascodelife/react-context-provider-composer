@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@ascodelife/react-context-provider-composer@^1.1.1":
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/@ascodelife/react-context-provider-composer/-/react-context-provider-composer-1.1.1.tgz#c33ed30c9ae42f70bfcabf25743f02d0aacce2a4"
-  integrity sha512-xUIRBJPPzIg+b/s50MCJhcKGdzgqhPSY7nrXGyhpbKF6uoqfG295X+lJ1Jx2rSdeuEJkJpAzOV/WjVKnnmhnNg==
+"@ascodelife/react-context-provider-composer@^1.2.0":
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/@ascodelife/react-context-provider-composer/-/react-context-provider-composer-1.2.0.tgz#36ede37d159c9ff4ace575e25aa6b4af8eaa7d77"
+  integrity sha512-Q/iXgTe3DeVzJ4Lto5evgroO5VI35aOwuQKLzn37PJpzwvKC9MRvmfHR1CFsfFHRvFRaeP/u84dC6uQyozMvMw==
   dependencies:
     react "^17.0.2"
     react-dom "^17.0.2"
