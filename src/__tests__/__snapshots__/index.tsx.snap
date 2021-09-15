@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`component test The nesting order of providers could be correct 1`] = `
+<Fragment>
+  <ContextProvider
+    value={1}
+  >
+    <ContextProvider
+      value={2}
+    >
+      <ContextProvider
+        value={3}
+      />
+    </ContextProvider>
+  </ContextProvider>
+</Fragment>
+`;
