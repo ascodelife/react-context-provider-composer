@@ -6,6 +6,6 @@ node_js:
 install:
   - yarn
 script:
-  - yarn test && yarn codecov
+  - yarn test:coverage && yarn codecov
 env:
   - CODECOV_TOKEN=b2ce7761-d288-4c8a-b9b1-08617abe6459
