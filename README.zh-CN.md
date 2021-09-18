@@ -1,5 +1,5 @@
 # react-context-provider-composer
-![GitHub top language](https://img.shields.io/github/languages/top/ascodelife/react-context-provider-composer) ![GitHub](https://img.shields.io/github/license/ascodelife/react-context-provider-composer)  [![codecov](https://codecov.io/gh/ascodelife/react-context-provider-composer/branch/master/graph/badge.svg?token=AJ8GMI5UAO)](https://codecov.io/gh/ascodelife/react-context-provider-composer)  
+[![Build Status](https://app.travis-ci.com/ascodelife/react-context-provider-composer.svg?branch=feat-travis)](https://app.travis-ci.com/ascodelife/react-context-provider-composer)[![codecov](https://codecov.io/gh/ascodelife/react-context-provider-composer/branch/feat-travis/graph/badge.svg?token=AJ8GMI5UAO)](https://codecov.io/gh/ascodelife/react-context-provider-composer)![GitHub top language](https://img.shields.io/github/languages/top/ascodelife/react-context-provider-composer) ![GitHub](https://img.shields.io/github/license/ascodelife/react-context-provider-composer)  
 将多个react context provider进行组合从而解决调用时的嵌套地狱。  
 [github](https://github.com/ascodelife/react-context-provider-composer)  
 [npm package](https://www.npmjs.com/package/@ascodelife/react-context-provider-composer)
