@@ -5,7 +5,8 @@
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
-    "test": "jest --coverage --watch"
+    "test:coverage":"jest --coverage",
+    "test": "jest"
   },
   "author": "ascodelife",
   "private": false,
@@ -26,6 +27,7 @@
     "@types/react": "^17.0.18",
     "@types/react-dom": "^17.0.9",
     "@wojtekmaj/enzyme-adapter-react-17": "^0.6.3",
+    "codecov": "^3.8.3",
     "enzyme": "^3.11.0",
     "enzyme-to-json": "^3.6.2",
     "jest": "^27.2.0",
