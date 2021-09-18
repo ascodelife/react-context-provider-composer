@@ -1,7 +1,7 @@
 English | [简体中文](https://github.com/ascodelife/react-context-provider-composer/blob/master/README.zh-CN.md)
 
 # react-context-provider-composer
-![GitHub top language](https://img.shields.io/github/languages/top/ascodelife/react-context-provider-composer) ![GitHub](https://img.shields.io/github/license/ascodelife/react-context-provider-composer)  
+![GitHub top language](https://img.shields.io/github/languages/top/ascodelife/react-context-provider-composer) ![GitHub](https://img.shields.io/github/license/ascodelife/react-context-provider-composer) [![codecov](https://codecov.io/gh/ascodelife/react-context-provider-composer/branch/master/graph/badge.svg?token=1BV3N89SYV)](https://codecov.io/gh/ascodelife/react-context-provider-composer)  
 Compose your react context provider to solve nested hell.  
 [github](https://github.com/ascodelife/react-context-provider-composer)  
 [npm package](https://www.npmjs.com/package/@ascodelife/react-context-provider-composer)
